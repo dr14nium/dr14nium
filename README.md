@@ -45,5 +45,5 @@ Greetings and welcome! I'm **Adrian**, a Geoinformatician passionate about lever
 ## Let's Connect!
 <p>
   <a href="https://www.linkedin.com/in/adrianhokas" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="adrianhokas.work@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:adrianhokas.work@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
