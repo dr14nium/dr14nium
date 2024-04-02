@@ -3,7 +3,7 @@
 ## Introduction
 Greetings and welcome! I'm **Adrian**, a Geoinformatician passionate about leveraging spatial data for insightful analysis and innovative GIS applications. With a background in Geodesy Engineering and currently pursuing my Master's thesis in Geomatics Engineering at Universitas Gadjah Mada, I aim to contribute meaningfully to the geospatial technology landscape.
 
-## Areas of Expertise
+## My Areas of Expertise
 - Proficient in spatial and temporal analysis techniques 🗺️⏰
 - Skilled in developing robust GIS applications 🖥️🗺️
 - Experienced in processing and interpreting satellite imagery 🛰️🌌
@@ -11,7 +11,7 @@ Greetings and welcome! I'm **Adrian**, a Geoinformatician passionate about lever
 - Knowledgeable in employing machine learning algorithms for geospatial analysis 🤖🗺️
 - Experienced in creating dynamic Web GIS solutions 🌐🗺️
 
-## My Projects
+## Here Are My Projects 🚀
 ### Data
 - **[CatMate](https://github.com/dr14nium/catmate-ml)**: A machine learning project using TensorFlow to predict cat breeds based on their breed.
 
@@ -22,7 +22,7 @@ Greetings and welcome! I'm **Adrian**, a Geoinformatician passionate about lever
 ### Mobile
 - **[TerraSync](https://github.com/dr14nium/TerraSync)**: TerraSync is my Master's thesis project aimed at developing an augmented reality application for 3D visualization of land use and spatial planning. Built with native Android using Kotlin language, it harnesses Google ARCore and Unity3D for an immersive experience.
 
-## Here is my tech stack
+## Here Are My Tech Stacks 🛠️
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
@@ -33,7 +33,7 @@ Greetings and welcome! I'm **Adrian**, a Geoinformatician passionate about lever
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square)
 ![Unity3D](https://img.shields.io/badge/-Unity3D-000000?logo=unity&logoColor=white&style=flat-square)
 
-### GitHub Stats
+### GitHub Stats 📊
 <p align="left">
 <a href="https://github.com/dr14nium">
 
