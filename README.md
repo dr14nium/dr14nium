@@ -29,7 +29,7 @@ Explore my coding playground where I document my learning journey and experiment
 ## Here Are My Projects 🚀
 ### Data
 - **[CatMate](https://github.com/dr14nium/catmate-ml)**: A machine learning project using TensorFlow to predict cat breeds based on their breed.
-_(more to come)_
+-_(more to come)_
 
 ### Web
 - **[WebGIS Pengasih](https://github.com/dr14nium/webgis-pengasih)**: A ReactJS-based Web GIS application designed to visualize poverty data in Desa Pengasih, Kabupaten Kulon Progo.
