@@ -10,7 +10,7 @@
 
 
 
-I'm a Bachelor of Geodesy Engineering graduate from Gajah Mada University, currently pursuing my Master's degree in Geomatics Engineering, specializing in Geoinformatics, at the same university. My current focus is on my master's thesis project, where I'm exploring the use of AR technology for 3D visualization of land and spatial information in Yogyakarta city.
+I'm a Bachelor of Geodetic Engineering graduate from Universitas Gadjah Mada, currently pursuing my Master's degree in Geomatics Engineering, specializing in Geoinformatics, at the same university. My current focus is on my master's thesis project, where I'm exploring the use of AR technology for 3D visualization of land and spatial information in Yogyakarta city.
 
 Recently, I've reignited my activity on GitHub and am excited to regularly update my repository. While I've dabbled in various courses and projects, many of them have yet to be properly documented. I'm now committed to organizing and sharing my work on GitHub.
 
