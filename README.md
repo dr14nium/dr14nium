@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianhokas/)
 [![Email](https://img.shields.io/badge/Email-0077B5?style=flat&logo=gmail&logoColor=white&color=red)](mailto:adrianhokas.work@gmail.com)
 [![Web](https://img.shields.io/badge/Website-0077B5?style=flat&logo=google-chrome&logoColor=white&color=blue)](https://www.drianium.com)
-[![Blog](https://img.shields.io/badge/Blog-0077B5?style=flat&logo=hashnode&logoColor=white&color=darkblue)](https://www.blog.drianium.com)
+[![Blog](https://img.shields.io/badge/Blog-0077B5?style=flat&logo=hashnode&logoColor=white&color=darkblue)](https://blog.drianium.com/)
 
 
 
