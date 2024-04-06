@@ -36,7 +36,7 @@ Explore my coding playground where I document my learning journey and experiment
 - _(more to come)_
   
 ### Mobile
-- **[TerraSync](https://github.com/dr14nium/TerraSync)**: TerraSync is my Master's thesis project aimed at developing an augmented reality application for 3D visualization of land use and spatial planning. Built with native Android using Kotlin language, it harnesses Google ARCore and Unity3D for an immersive experience.
+- **[TerraSync](https://github.com/dr14nium/terrasync-augmented-reality) (ongoing)**: TerraSync is my Master's thesis project aimed at developing an augmented reality application for 3D visualization of land use and spatial planning. Built with native Android using Kotlin language, it harnesses Google ARCore and Unity3D for an immersive experience.
 - _(more to come)_
 
 ## Here Are My Tech Stacks 🛠️
